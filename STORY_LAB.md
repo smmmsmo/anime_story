@@ -96,3 +96,17 @@ Each pitch is independent. **None is selected**, including *The Seventh Oath*.
 - Is the story's political map seven kingdoms, one empire, or something more original?
 
 **Reminder: the entries above are a brainstorming record, not a plot synopsis or locked story bible.**
+
+## 9. Narrative conflict and survival preferences — 2026-10-22 brainstorming
+
+**PROVISIONAL, NOT CANON.** The user wants the central Hero and Antagonist to **survive**, including after a potential decisive confrontation; victory need not equal killing. The antagonist might be defeated, wounded, disappear or lose his immediate objective while remaining alive and narratively important. Do not lock the ending mechanics.
+
+- The antagonist's possible childhood crisis at age **11** and a **10-year disappearance** could place his return near **21**. The possible death of a younger or older sister is just *one* candidate trauma, not established history. Later adulthood and alternate timelines are still open.
+- The antagonist's elite **council** or inner circle consists of individually capable, high-ranking figures with motivations, powers and distinct relationships to the antagonist. Some may be formidable independent rulers or creatures; their agreements should have mutually understood benefits. Avoid defaulting to disposable henchmen.
+- The hero should have **friends and organically acquired traveling companions**, not merely a formally assigned party of teammates. Friendships, disagreements and consequences matter.
+- **Central unsolved issue:** What causal chain forces Hero and Antagonist to confront one another? Do not retroactively assume this is fixed by either character's origin or presumed goals. The protagonist's particular objective and the antagonist's ultimate endgame both depend on the story premise.
+- **Potential collision mechanisms to explore:** (1) same underlying wrong, opposed remedies; (2) an honorable villain's bargain unintentionally threatens people the hero protects; (3) hero discovers evidence the antagonist wants released/hidden; (4) both try to protect the same person by incompatible means; (5) a third faction creates initial misidentification and later necessary temporary cooperation; (6) the hero's friend or mentor has unresolved history with the villain's council; (7) hero stops the villain's policy, not necessarily the villain himself.
+- In early encounters, the hero is unlikely to win a direct raw-power duel. Show indirect consequences and disputes first, council-level threats next, and strategic or ideological confrontation as the relationship matures. The antagonist's restraint should follow character motives, not arbitrary plot armor.
+- **Nonlethal climax options:** frustrate a ritual or institutional takeover, defend a threatened population, force a costly retreat, expose hidden information, break a political coalition, or compel a ceasefire. Survival should be a credible consequence of choices and rules rather than an unearned resurrection.
+
+**All scenarios above are brainstorming sparks. No story has been selected or finalized.**
