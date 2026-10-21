@@ -1,25 +1,38 @@
-# Current Status — Concept Development (NOT CANON)
+# Current Status — Seven-Kingdom Anime Fantasy Development
 
-Updated 2026-10-22. **Every item below is a preference or idea currently being explored, not a finalized commitment.**
+**Updated 2026-10-22.** **Some world-building choices are explicitly selected; almost all plot and mechanical details are still under discussion.** Treat specific selections in [development/decisions.md](development/decisions.md) as current choices, not irreversible decisions.
 
-## Working preferences
+## Selected world foundations
 
-- Serious dark **medieval fantasy**, kingdoms/empires, conspiracies, war, magic and supernatural elements; realistic emotional consequences.
-- **Morally grey** central conflict, but Hero is firmly justice-driven and Antagonist can commit frightening, genuinely villainous acts.
-- Journey mostly through the **young Hero's perspective**. Hero roughly 16–18, born with some power, not weak, learns and grows through struggles; friends and love interest.
-- Antagonist: privileged/possibly royal, intelligent, disciplined, civil, calm, attractive and intimidating, originally kind/heroic; starts with some advantage but **not invincible at birth**, later earns immense power. Villainous, strategic, respects meaningful agreements, commands fear and loyalty; has his own romantic life and inner council.
-- Possible incident at antagonist age 11, then ~10 missing years, return around 21. **The sister's death is merely a suggestion**, and ~27 was previously floated as another option.
-- Villain becomes **vastly stronger than the Hero**; may have killed major warriors and terrifying creatures, defeated or enlisted other villainous powers and built far-reaching influence. **He is NOT the only apex power or invincible**: coalitions of elite warriors from several kingdoms, several powerful demons/creatures, or rare individual beings even stronger than him may confront, defeat or potentially kill him. He can still see himself as overwhelmingly superior to ordinary opponents.
-- **Early Hero–Villain asymmetry:** the Villain can effortlessly kill the early Hero but regards him as too insignificant to bother with—like an ordinary peasant beneath his notice. His early non-killing is **not mercy or admiration**; it is dismissive indifference and vastly higher priorities. The Hero remains brave, able and justice-driven, not a beggar. Their eventual extreme confrontation may involve **mutual lethal intent**, and this earlier rationale will no longer apply. Villain fights personally only on very rare, exceptional occasions.
-- Villain's structure: him at apex → elite council → lieutenants / powerful subordinates → forces; independent allies may command their own armies and negotiate territory, resources, information or enhancements.
-- **Hybrid power:** innate ability + training/combat + rare artifacts/rituals + creatures or boss-level beings granting/negotiating power. All mechanics and limits pending.
-- Both Hero and Villain **survive** the desired long-term conflict; hero can genuinely intend to kill in an extreme final showdown, but outcome avoids both deaths. Exact method unknown.
-- **Love interests for both**, friendship and relationships matter; not just fighting.
-- Creator currently likes collision models **1, 2 and 4** from earlier discussion: shared goal/different methods; an honorable bargain with harmful results; hidden truth fought over.
-- No gods/deity powers; supernatural is fine.
+- **SEVEN kingdoms**, not nine.
+- **All seven comparative specialties selected:** (1) Economy & Agriculture/Business, (2) Military & Combat — strongest warriors, (3) Naval & Maritime, (4) Engineering & Weapons, (5) Nature & Medicine, (6) Advanced Magic, (7) Royal Prestige + Education + Libraries/Knowledge + Political Power.
+- **Antagonist born to the royal family of #7**, an elegant top-tier kingdom, **not** the strongest-warrior realm.
+- **Two selected kingdom-name candidates**: **Arlen** and **Everen**, both **unassigned**. **Five names outstanding**. Favor short, elegant, original fictional/anime-style names; avoid British/Old English and Nordic names. No chooser widgets.
+- **All kingdoms** have impressive fighters, armies, generals/protectors and mages. Specialty does not mean exclusivity.
+- **Guild System / Hunters** exists; guild tiers, governance, branches, affiliations and contracts are pending.
+- **Fantasy ingredients:** ancient/medieval-feeling original world, magic, demons, monsters, creatures, dungeons, rare discoveries, normal civilian life, kingdom politics and resource rivalry.
+- Broad geography is liked (north mountains, central farms/rivers, east minerals/ruins, west forests, south sea, remote frontier), but not a locked map.
+- Resource dependencies and kingdom-to-kingdom competition are important, not nine isolated power silos.
+- Religion will not be a focus; no deity-origin magic as specified in current creative direction.
 
-## Still unsolved
+## Working character and story preferences — NOT PLOT CANON
 
-No chosen story premise; no locked character names, objective, exact chronology, council members, map, kingdoms, romance details, power ceiling, final encounter, season count, or episode scripts.
+- Serious, dark, emotionally mature, journey-driven **animated fantasy**, with political maneuvering, adventure, battles, secrets, betrayals, costs and mystery.
+- Hero: roughly 16–18 around a possible core journey; normal/less privileged beginning, some latent innate power, justice-driven, resilient, wins loyalty through actions, learns through fights and travel, develops friends and love.
+- Antagonist: around same age or perhaps 1–2 years older, born into the specified prestigious royal family; calm, mannered, originally kind and talented, later a frightening strategic force. An early formative tragedy/betrayal is an option, NOT determined. Dark power may corrupt him but must not replace understandable choices.
+- Antagonist eventually substantially stronger than Hero, but is not a god, unkillable, born omnipotent or guaranteed #1 in the world. Rare personal battles, organized subordinates/council and independent allies. Early he may dismiss Hero as insignificant, not spare him out of mercy.
+- **Illustrative timeline:** begin before the leads' births → ordinary kingdom life and politics → childhood catalyst → latent powers develop perhaps around 11–15 → Hero explores, visits guilds, fights monsters and local threats around 15–18 → later a clash with a subordinate during a possible relic hunt. **Not a finalized timeline or episodes.**
+- Power mix being explored: innate talent, registration/awakening, training, combat, artifacts/ornaments, demon bargains, boss encounters, dark methods with possible corruption, ranking tiers and a rare apex tier; precise mechanics not fixed.
+- **Possible plot seed**: 10–20 unique collectibles that grant an extraordinary power, wish or resurrection with catastrophic cost; antagonist's subordinates retrieve them, while Hero intervenes in a town. This remains an OPTION only.
+- The Seventh Oath and Black Divide remain optional prior seeds, not settled setting.
+- Morally grey conflict, hero-led viewpoint, organic episodic progression, no prescribed five phases. Both leads surviving an extreme confrontation is the creator's current desire; exact ending unknown.
+- Both leads may have romances, credible friends/allies and emotional consequences. Antagonist's broad rise largely revealed indirectly.
 
-**Important:** "Hero wants to kill at the end" and "Hero and Villain both survive" are not contradictory: survival can arise from an interrupted attempt, change of choice, conditional victory or a credible escape. No ending has been selected.
+## Open next
+
+1. Select **five remaining kingdom names** and assign all seven names (Arlen/Everen are unassigned).
+2. Develop the seven kingdoms' cultures, educational systems, political relationships, institutions and world geography without assuming prior assistant inventions are settled.
+3. Decide Guild/Hunter ranks vs power ranks and refine supernatural system later.
+4. Explore character childhood events, motives, story candidates and actual plot **after** the world foundations.
+
+See [environment/kingdoms-and-politics.md](environment/kingdoms-and-politics.md), [development/worldbuilding-2026-10-22.md](development/worldbuilding-2026-10-22.md), and [development/decisions.md](development/decisions.md).
