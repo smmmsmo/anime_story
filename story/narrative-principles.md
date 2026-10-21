@@ -9,3 +9,9 @@
 7. **Relationships count:** real friends, councils, allies and romantic partners are people with their own goals.
 8. **Survival with cost:** avoid killing either lead as a cheap climax; have real losses, reversals or damaged objectives where appropriate.
 9. **Not rigid arcs:** seasons and episodes emerge from a chosen story and themes, not a preset five-phase template.
+
+## Early world-revelation approach discussed on 2026-10-22
+
+Possible narrative opening **before Hero and Antagonist are born**, following two near-age births and an initial stretch of seemingly normal life, local kingdom rivalries, ordinary threats and gradual emotional attachment. With time, a serious childhood event reshapes the Antagonist and the Hero develops through hunts, guild activity and travel. The hero's encounter with an antagonist subordinate might be the first overt narrative crossover.
+
+This is a **suggested pacing and connective structure, not a committed episode order**. No preset five-phase structure. The creator wants the countries and societies to feel alive independently of the two leads, and viewers to explore them organically rather than receive exposition for all seven at once.
