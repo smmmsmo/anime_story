@@ -16,7 +16,9 @@ A room quiets when he enters. He does not boast or scream for validation; confid
 
 ## Force and restraint
 
-He is **vastly stronger than the Hero** (especially earlier). Could defeat/k​ill Hero almost instantly in some situations; his not doing so requires a **specific, rational, scene-grounded reason**, never convenience. He rarely fights personally; he dispatches members of the council, commanders and armies. His own battles should be exceptional events at the highest stakes.
+He is **vastly stronger than the Hero** (especially earlier), with enough power to kill the early Hero practically instantly. **Early on he does not kill the Hero simply because he sees him as beneath his attention**—a minor peasant-like nuisance unworthy of the Villain's personal effort, **not** because he feels mercy, pity, special affection or reluctance. He has greater objectives; if an obstacle must be moved he ordinarily delegates it. This arrogant indifference is the *starting dynamic*, not a reason to ignore an increasingly serious threat forever. His own battles are extremely rare, extraordinary and high-stakes. By a late extreme confrontation, **both Hero and Villain may sincerely intend to kill each other**. The proposed survival of both remains unresolved and must not weaken the battle's sincerity.
+
+**Power ceiling:** he is one of the world's terrifyingly strong forces, **not omnipotent or necessarily the number-one being**. Joint elite powers from multiple kingdoms, multiple great demons or an exceptional individual stronger than him might stand against or defeat him. He believes his status places him far above almost all ordinary opposition. These threats keep the stakes real; exact rankings, counters and factions are not decided.
 
 ## Relationship / love
 
@@ -30,4 +32,4 @@ He should commit terrible acts, remain a compelling dangerous antagonist, and ha
 
 ## Unresolved
 
-Precise childhood crisis; original love interest; exact clan/royal status; ten-year deeds; whether he believes he is righteous; code of honor and deal limits; core objective; reason Hero survives their meetings; endgame.
+Precise childhood crisis; original love interest; exact clan/royal status; ten-year deeds; whether he believes he is righteous; code of honor and deal limits; core objective; when and how he recognizes Hero as significant; what his attitude becomes when early disdain stops being defensible; exact beings/coalitions who can threaten him; endgame.

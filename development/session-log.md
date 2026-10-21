@@ -27,4 +27,11 @@
 - Inspiration: Castlevania Vlad Tepes aura/tragic gravitas, Overlord Ainz-like delegation/hierarchy; borrow *feel*, not plot.
 - Creator explicitly requests a GitHub structure for cast, environment, settings, episodes, all instructions and context recovery. All notes remain provisional.
 
+## 2026-10-22 — Clarification: Early dismissal versus later lethal rivalry
+- **All of this remains provisional.** The antagonist is not invulnerable or the world's guaranteed strongest being: coalitions of kingdoms' elite fighters, multiple high-ranked demons, or rare stronger individuals may stand against or even defeat him.
+- In early Hero–Villain encounters the Villain doesn't need to kill Hero: Hero is so far below his level that killing him is beneath his attention, like troubling himself over an insignificant peasant. **Not mercy, sympathy, secret attachment or hesitation.** He can delegate matters and pursue priorities.
+- Hero does not beg and is not morally or psychologically weak merely because he is physically outclassed.
+- **Later, once the stakes reach an extreme confrontation, both Hero and Villain can fight seriously to kill one another.** Earlier Villain indifference is not a permanent excuse. Desired survival of both remains an unsolved credible climax condition, not a settled mechanism.
+- The word “divine” if ever used refers to exceptional/supernatural power, **not a literal god or deity**.
+
 **Every entry records discussion, not canon confirmation.**

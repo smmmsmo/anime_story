@@ -24,9 +24,9 @@ Hero uncovers an essential secret that can undermine, redirect or expose the Vil
 
 - Hero first faces **effects** of the Villain's strategy and the troops of an ally; his battles are frequent and consequential.
 - Rivals inside the Villain's **council** react to Hero's interference; Hero's friendships and allies become part of the stakes.
-- Rare first direct encounter highlights enormous power gap. Hero does **not beg**; Villain's restraint must have an actual reason.
+- Rare early direct encounters highlight an enormous power gap. Hero does **not beg**. Villain may dismiss him as insignificant and beneath the dignity of personal combat—**contempt and indifference, not kindness**. His failure to kill the Hero needs no secret fondness or elaborate excuse *while the Hero poses no meaningful threat*. As Hero's influence grows, this rationale must be reevaluated.
 - Their beliefs, secret history and objectives become clearer to both.
-- A major clash threatens people and principles, Hero may sincerely intend to kill, yet both survive by **plausible circumstances** rather than a fake killing followed by convenient resurrection.
+- In an eventual extreme, genuinely high-stakes clash, **both may fight to kill the other**. Earlier dismissal is gone. Creator prefers that both somehow survive, but the mechanism is still open and must arise from believable events, not a staged death or convenient resurrection.
 
 All sequences above can be re-ordered, combined or replaced once a premise is chosen.
 

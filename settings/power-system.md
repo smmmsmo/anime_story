@@ -8,7 +8,7 @@ Potential interacting paths, rather than a single leveling formula:
 4. **Creatures, boss encounters and pacts:** beings stronger than many mortals may reward, grant, teach, bargain, mutate or lend abilities depending on conditions.
 5. **Non-raw-power advantages:** allies, intelligence, artifacts, rare knowledge, economic resources, territory, political control and military organization.
 
-The Antagonist becomes **overwhelmingly** more powerful than the Hero by earning and combining advantages during largely unseen years. He was **not** born omnipotent.
+The Antagonist becomes **overwhelmingly** more powerful than the Hero by earning and combining advantages during largely unseen years. He was **not** born omnipotent, and even at peak he is **not absolutely unbeatable**. Several kingdoms' top powers fighting together, multiple powerful demon-like beings acting in concert, or a few rare individuals stronger than him may credibly challenge or defeat him. These are options, not an approved ranking.
 
 ## Unresolved constraints (must be solved before serious battles)
 
