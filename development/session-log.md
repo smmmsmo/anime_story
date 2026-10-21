@@ -34,4 +34,18 @@
 - **Later, once the stakes reach an extreme confrontation, both Hero and Villain can fight seriously to kill one another.** Earlier Villain indifference is not a permanent excuse. Desired survival of both remains an unsolved credible climax condition, not a settled mechanism.
 - The word “divine” if ever used refers to exceptional/supernatural power, **not a literal god or deity**.
 
-**Every entry records discussion, not canon confirmation.**
+## 2026-10-22 — Kingdoms, naming and world systems (latest instructions take precedence)
+- Creator wants an **original fictional anime fantasy world**, not literal British/European history. Magic, demons, creatures, monsters, dungeons, kingdoms, geography, politics and normal village/city life.
+- Broad terrain concept liked: northern mountains, central river plains/markets, eastern mineral hills/ruins, western forests, southern ocean/ports/islands, remote demon-infested frontier.
+- Rival kingdoms can have different specialties, but **every kingdom** still has formidable fighters, protectors, generals and magic users. Kingdoms need each other's weapons, medicine, resources, food, ships, knowledge and treaties, even when competing.
+- A **Hunter Guild system** was explicitly added alongside Royal Protectors. Hunt, dungeon, escort, rescue, collection and guild-rank details to develop later.
+- The assistant originally proposed 7 kingdoms. Creator briefly chose 9, then **explicitly changed back to 7 (final current count)**. Two extra kingdom-role ideas (Demon Hunting/Frontier and Cavalry/Land Trade) are no longer selected kingdoms.
+- Seven **selected** specialties: Business/Economy & Agriculture; Strongest-Warrior Military & Combat; Naval & Maritime; Engineering & Weapons; Nature & Medicine; Advanced Magic; prestigious **Royal / Education / Political Power**, major libraries and archives.
+- Antagonist is **royal-born in the prestigious education/knowledge/political-power realm**, which is emphatically **not** the strongest-warrior kingdom.
+- Names **Arlen and Everen** were personally selected, but have **not** yet been assigned to specific kingdoms; five of seven names outstanding. British/old-English and Nordic naming rejected. Prefer original, short, beautiful anime/fantasy-feeling names. No chooser UI; creator will type names manually.
+- Hero–Villain narrative ideas explored: birth-era prologue, similar-age leads, childhood life and power growth, Hero's travelling/hunting years, Antagonist's long mostly-offscreen dark ascent and eventual artifact conflict via one of his lieutenants. Age windows (11–15, 15–18, 18–21) are **examples, not fixed**.
+- Candidate power system: innate power, childhood registration/awakening, tiered status, trained combat, rare wearable or integrated rings/relics, boss creatures, pacts, and forbidden/dark techniques with psychological costs. No exact tier numbers or mechanics selected.
+- Candidate main objective: scattered rare objects (roughly 10/15/20) promising power, a wish, or resurrection but carrying catastrophic cost. This is a **story proposal**, not chosen lore.
+- Only the scope of **explicit world-building selections** belongs in decisions.md. Plot, powers, character events and name assignments remain open.
+
+**Earlier entries preserve historical brainstorming; the latest explicit decisions are in [decisions.md](decisions.md).**
