@@ -22,7 +22,7 @@
 ## Power, politics, world
 - How are abilities born, awakened, trained, granted, resisted and exhausted?
 - What powers do rare artifacts and powerful creatures grant, under what costs?
-- How are kingdoms/empires structured? How many?
+- **Seven kingdoms confirmed.** How do these kingdoms differ in governance, location, geography, culture, alliances, royal education, trade, protector structures and rivalries?
 - Which creatures and evil/dark factions are rational actors, rather than random monsters?
 - How can Hero challenge Villain without equalizing their raw power unrealistically?
 
@@ -33,3 +33,12 @@
 - Where and how do discoveries/flashbacks reveal the antagonist's missing decade?
 
 All questions are intended to stay open until explored or explicitly settled.
+
+## Seven-kingdom identity and naming backlog (2026-10-22)
+- Which specific kingdoms receive the two **selected, unassigned names Arlen and Everen**? What five other beautiful, short, fictional anime-fantasy-style names will the creator choose? Avoid British/Old-English/Nordic naming and UI selection forms.
+- Confirmed comparative specialties: **Economy/Agriculture, Military/Combat, Naval/Maritime, Engineering/Weapons, Nature/Medicine, Advanced Magic, Royal/Education/Political Power**. All have warriors, mages and protectors. How to portray distinctions without one-note nations?
+- What differentiates the **antagonist's elite Royal Education kingdom** (grand libraries, scholarly institutions, diplomacy) from the Advanced Magic specialist kingdom? How does it obtain and use knowledge?
+- What are the precise borders and capital cities within the creator-liked north/center/east/west/south/frontier geography?
+- How does the **Hunter Guild system** differ from each royal military? What are Hunter ranks, contracts, laws, registration rules and cross-border relations?
+- How can the seven kingdoms depend on one another for weapons, medicine, shipping, food, education and diplomacy while competing politically?
+- Are any rare collectible artifacts, wish/resurrection mechanisms or the Black Divide needed in the final story? **Still not selected.**
