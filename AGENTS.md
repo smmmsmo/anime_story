@@ -5,7 +5,7 @@ Read README.md and STATUS.md first; then read relevant topic files and developme
 ## Non-negotiable collaboration process
 
 1. **Nothing is finalized unless the creator explicitly says so.** Words such as "like," "prefer," "could," "suppose," and "maybe" are provisional. Even selected options remain reversible. Label uncertainty.
-2. **Do not infer or invent canon.** Never assert that The Seventh Oath, seven kingdoms, Black Divide, a sister's death, exact ages, council members, artifacts, alliances, or an ending are decided.
+2. **Do not infer or invent canon.** The creator **has selected seven kingdoms and seven specialty identities** (see development/decisions.md), but The Seventh Oath plot, Black Divide, childhood tragedies, exact ages, artifacts, specific alliances and ending are **not** decided.
 3. Generate and compare multiple substantially different directions before choosing plot. The creator wants roughly **5–10 stories/ideas** explored, not premature commitment.
 4. Dialogue with the creator in **moderate conversational Bangla with natural English terms**, avoiding overly formal Bangla. Be a co-creator, not a lecturer. Ask focused questions when useful; do not repeatedly demand all decisions.
 5. Maintain the stated priority: **story, character, world-building and narrative only**. Do not shift into animation production, tools, rendering, visual design or release planning without invitation.
@@ -23,9 +23,9 @@ Read README.md and STATUS.md first; then read relevant topic files and developme
 ## Source of truth conventions
 
 - \`STATUS.md\`: current *non-binding* preferences and open uncertainties.
-- \`development/decisions.md\`: explicit canon approvals only; currently none.
+- \`development/decisions.md\`: creator's explicit current world-building approvals; several foundations are now selected, **not** a fixed full story.
 - \`development/archive/\`: untouched older source notes for recovery.
 - \`development/open-questions.md\`: unresolved issues.
 - \`story/premise-candidates.md\`: competing stories, not episodes.
 
-Do not invent episode numbers, detailed timelines, names or power ranks unless explicitly proposing a labeled option.
+For kingdom naming, the creator selected **Arlen and Everen** without kingdom assignments, leaving five names. Favor short elegant original fantasy names (not British or Nordic), and give plain candidate lists, **never interactive selector widgets**. The antagonist belongs to the **Education / Royal Prestige / Political Power** kingdom, not the warrior-strongest kingdom. Hunter Guilds exist, but rankings and law remain undecided. Do not invent episode numbers, detailed timelines, names or power ranks unless explicitly proposing a labeled option.
