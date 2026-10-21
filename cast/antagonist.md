@@ -2,7 +2,7 @@
 
 ## Character essence
 
-A **lost possible Hero**: born to wealth/privilege, perhaps royalty; intelligent, educated, attractive, controlled, well-spoken, honorable and compassionate early in life. Something terrible/betraying may happen at about 11 (possible sister's death is **only one proposed incident**). Rather than immediately become a fully formed political thinker, he grows resentful and forms his ideology over years.
+A **lost possible Hero**: born into the **royal family of the prestigious Education, Knowledge & Political Power kingdom** (one of the explicitly selected seven); intelligent, educated, attractive, controlled, well-spoken, honorable and compassionate early in life. Something terrible/betraying may happen at about 11 (possible sister's death is **only one proposed incident**). Rather than immediately become a fully formed political thinker, he grows resentful and forms his ideology over years.
 
 He is initially gifted but **not overpowering**. After a possible ~10-year absence, he returns about age 21 with immense accumulated strength and influence. Earlier ideas also floated an older age (~27); chronology remains open.
 
@@ -32,4 +32,12 @@ He should commit terrible acts, remain a compelling dangerous antagonist, and ha
 
 ## Unresolved
 
-Precise childhood crisis; original love interest; exact clan/royal status; ten-year deeds; whether he believes he is righteous; code of honor and deal limits; core objective; when and how he recognizes Hero as significant; what his attitude becomes when early disdain stops being defensible; exact beings/coalitions who can threaten him; endgame.
+Precise childhood crisis; original love interest; exact royal house and family; ten-year deeds; whether he believes he is righteous; code of honor and deal limits; core objective; when and how he recognizes Hero as significant; what his attitude becomes when early disdain stops being defensible; exact beings/coalitions who can threaten him; endgame.
+
+## 2026-10-22 — Selected birth setting; biography still open
+
+The creator explicitly places the Antagonist in a **Royal Family** of the realm outstanding for **education, grand libraries/knowledge repositories, prestige and political/diplomatic influence**. It is an important, elegant, top-tier kingdom but **NOT the realm with the world's strongest fighters**. It still has formidable fighters and mages. No kingdom name has been assigned: **Arlen and Everen** are selected candidate names but unassigned to any of the seven kingdoms.
+
+Potential childhood corruption and forbidden power path, transformative event, rival age, exact powers and objectives remain **brainstorming**. His kind/civil early identity should retain nuance as he makes later dangerous decisions; dark methods need not fully erase free will.
+
+Story progression might begin before his birth, show everyday life and kingdom rivalry, allow a childhood incident, then reveal his largely unseen ascent through rumors, allies, lieutenants and rare major encounters. No dates or episodes locked.
