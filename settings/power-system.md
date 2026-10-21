@@ -19,3 +19,18 @@ The Antagonist becomes **overwhelmingly** more powerful than the Hero by earning
 - Is ability growth genetic, awakening-based, ritual-granted, or a mixture?
 
 Avoid automatic game-like boss rewards unless explicitly chosen.
+
+## 2026-10-22 — Candidate gameplay-like anime growth ideas (NOT chosen mechanics)
+
+The creator is considering a layered power system in the seven-kingdom world:
+
+- People can be born with different latent abilities. Awakening or official registration at some age might recognize and begin developing the ability (age and method unchosen).
+- There may be ordinary ranks/tier levels and one extremely rare higher apex status. The mature antagonist might achieve that exceptional tier while the Hero remains a few levels below. The hierarchy, cap and measuring method are undecided.
+- Training, dangerous battles, magic specialization, dungeon exploration and monster hunting develop skills and capabilities.
+- Rare **rings, ornaments, weapons, relics, enhancements** may be equipped, bonded or **integrated** into a person; process and drawbacks to be designed.
+- Demons and powerful boss creatures may be fought, taught by, bonded with or bargained with for improved skill/power. These are not guaranteed boss-drop rewards.
+- Some dark/forbidden paths can offer extra strength at the price of possible **mental/ethical corruption**. The antagonist may combine conventional and dark systems; the Hero is inclined not to take the dark route. Do not reduce antagonist's moral agency to a simple spell making him evil.
+- The Hero's goodwill, relationships, discipline, dedication and community support may help him survive or improve—**not** established as a literal power source.
+- Kingdom-specialist schools can train different techniques, but every kingdom has capable warriors and mages.
+
+**No power tiers, registration ritual, artifact inventory, demon contract rules, corruption rates, resurrection rules or ranking ceiling are final.**
