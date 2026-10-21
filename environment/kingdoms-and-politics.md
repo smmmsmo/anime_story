@@ -1,52 +1,42 @@
-# Nine Kingdoms, Thrones & Political Rivalry
+# The Seven Kingdoms — Political Framework
 
-_Last updated: 2026-10-22. The creator explicitly chose **nine major kingdoms**. Seven specialties are selected; names and geography are still being developed. These are working world-building decisions, not a completed story or fixed plot._
+**Updated 2026-10-22 — creator-confirmed world-building direction.** The creator chose **SEVEN (7) main kingdoms**, superseding the brief nine-kingdom proposal. The seven kingdom **specialties below** have been expressly chosen. Specific kingdom names, ruling families, borders, cultures, alliances and history remain open.
 
-## Chosen structure
+## Seven chosen specialties
 
-- **Nine major kingdoms** exist in the main political setting. They need not be the only states or human settlements; free cities, ruins, frontier lands and unclaimed regions may exist.
-- **All nine kingdoms have warriors, formidable fighters, magic users, protectors and armies.** A specialty identifies comparative excellence, not a monopoly. One kingdom is especially renowned for the **strongest warriors**.
-- Rivalry reflects resources, trade, military strength, influence, historic disputes, training, political competition and negotiated alliances; kingdoms may need one another even while competing.
-- Not every kingdom is equally powerful in every field. Strength is multidimensional: battlefield might, medicine, knowledge, engineering, maritime routes, trade and diplomacy can each create leverage.
-- Protector organizations, command hierarchies and their relationship to royalty may differ between kingdoms. These details await design.
+| Planning number (not in-world rank) | Kingdom's comparative specialty | Main areas |
+| --- | --- | --- |
+| 1 | **Economy & Agriculture** | Business, commerce, markets, wealth, crops, food, economic strength |
+| 2 | **Military & Combat** | Elite warriors, formidable generals, martial traditions and combat training; the **strongest-warrior kingdom** |
+| 3 | **Naval & Maritime** | Navy, sea routes, harbors, navigation, shipping, sea trade |
+| 4 | **Engineering & Weapons** | Mining, material expertise, forged and enchanted weapons, equipment, engineering |
+| 5 | **Nature & Medicine** | Healing, medicine, rare plants, nature-related magic; beast bonding is a possible extra |
+| 6 | **Advanced Magic** | Exceptional mages, sorcery, advanced magical practice and research |
+| 7 | **Royal, Education & Political Power** | Distinguished royal dynasty, prestigious education, major libraries/knowledge repositories, scholarship, diplomacy, political authority |
 
-## Seven selected specialties (confirmed by creator; numbering is for tracking, not a world rank)
+**Antagonist origin:** He is **born into the royal family of #7**, the elegant and influential **Education / Royal Prestige / Political Power kingdom**, which is **not** #2 (the strongest-fighter kingdom). Its learning institutions, libraries and political reach are identity-defining; details of its education system, archives, culture and diplomacy are still to design.
 
-| # | Selected kingdom identity | Main specialization | Clarification |
-|---|---|---|---|
-| 1 | Economy & Agriculture | Commerce/business, agriculture, wealth, food and trade | A major economic center; still has excellent fighters |
-| 2 | Military & Combat | Elite warriors, generals, combat training | The kingdom with the **strongest fighters**; not automatically supreme in every other field |
-| 3 | Naval & Maritime | Sea routes, harbors, navy, maritime trade | Maritime advantage creates dependency |
-| 4 | Engineering & Weapons | Mining, equipment, magical weapons and engineering | Weapons and materials matter to other states |
-| 5 | Nature & Medicine | Healing, medicines, plants, nature-related arts | Essential to people and armies elsewhere |
-| 6 | Advanced Magic | Arcane mastery, powerful magic users and magical research | Distinct from the general scholarship of the royal-education kingdom |
-| 7 | Royal, Education & Political Power | Prestigious monarchy, education, libraries/archives of accumulated knowledge, diplomacy and influence | **Antagonist's birth kingdom**; influential and elegant, but NOT the strongest-warrior kingdom |
+**Crucial:** A specialty is comparative, **not exclusive**. **Every kingdom** has able armies, dangerous warriors, accomplished magic users, protectors and generals. The specialized kingdom is not the only one capable of that activity. Even #7 has formidable fighters.
 
-**Kingdoms #8 and #9: specialties UNSELECTED.** Previously floated Demon Hunting/Frontier Defense, Cavalry/Land Trade, Dragon Dominion, Spirit Summoning, Shadow Arts, Celestial Arts, Alchemy, Rune Sealing and Ancient Relic stewardship are **unselected proposals**, not additional confirmed kingdoms.
+## Interdependence and rivalries — creator liked this principle
 
-## The antagonist's royal homeland
+- Each kingdom wants influence, security and recognition, but different strengths force trade, strategic alliances, competition and occasional war.
+- Possible example: a fighting kingdom depends on the engineering kingdom for exceptional weapons; a seafaring kingdom can interrupt an agrarian-commerce kingdom's overseas trade; the healing kingdom's medicine may be vital to armies across the continent.
+- Rivalries may arise from limited resources, military prestige, tariffs, magical research, dynastic claims, disputed territory, ideology and local injustices.
+- Kingdoms may train different elite Protector Orders and use different military hierarchies. **Not yet named or structured.**
+- Seven major kingdoms do not prohibit free cities, neutral settlements, merchant enclaves, unclaimed wilderness, ruins and non-human-controlled territories.
 
-- The antagonist is born into this kingdom's **royal family**.
-- This is a top-tier, refined and influential realm, renowned for its **prestige, education, major libraries and repositories of knowledge**, as well as political/diplomatic power.
-- It has elite troops, powerful fighters and magic users, but the **strongest warrior kingdom is elsewhere**.
-- Exact educational institutions, archive contents, government and hidden secrets remain **undecided**. An ancient secret held by the dynasty was suggested but not accepted.
+## Names — two explicitly selected, kingdom assignment undecided
 
-## Kingdom-to-kingdom interdependence
+- **Arlen** (selected)
+- **Everen** (selected)
 
-Working examples the creator particularly liked:
-- The combat powerhouse may rely on the engineering/weapons kingdom for special arms.
-- A maritime power can pressure a prosperous heartland by disrupting sea trade.
-- The medicine/nature kingdom can supply crucial treatment to other kingdoms' troops.
-- Interdependence fuels trade, diplomacy, espionage, grievances and war rather than eliminating rivalry.
+These are **two of seven needed kingdom names**, not official assignments to kingdom #6 or #7 simply because they appeared in earlier lists under those headings. **Five names remain unselected.** The creator dislikes British/old-English and Nordic styling; new original names should sound short, elegant, beautiful, natural to pronounce and genuinely fictional/anime-fantasy inspired. Avoid interactive choice widgets; present candidates in plain text and let the creator reply with picks.
 
-## Names — selected but UNASSIGNED
+## Earlier alternatives — not active
 
-- **Arlen**
-- **Everen**
+The assistant previously proposed a **nine-kingdom framework**, with Cavalry/Land Trade and Demon Hunting/Frontier Defense as extra specialties, plus optional Dragon Dominion, Spirit Summoning, Shadow/Illusion, Celestial, Alchemy, Runes/Sealing and Ancient Relics. The creator subsequently explicitly said **seven kingdoms**. Those extras are **not kingdoms in the selected seven** (their ideas may still be considered for guilds, regions, factions or powers if the creator wants). Earlier 36-name lists were not accepted except **Arlen** and **Everen**.
 
-Only these two are creator-selected kingdom-name candidates so far. **Neither is assigned to a numbered kingdom.** Seven more names remain to be selected. Previous lists of British/old-English-sounding and Nordic-sounding names are not accepted; future names should be **original, anime/fantasy-like, short, elegant, memorable and easy to pronounce**, without a British or Nordic feel. Present name lists plainly; the creator will tell us selected names manually, **no selection widgets/forms**.
+## Still open
 
-## Not yet determined
-
-- Specialties of the remaining two kingdoms, exact geography/borders, final allocation of names and culture, trade relations, rankings, dynasties, military structures, royal titles, city names, alliances, history of empire/unification, maps or detailed power rules.
-- Whether the nine kingdoms once belonged to a unified empire was merely proposed and remains unresolved.
+Names and assignment, royal courts, education systems, every kingdom's internal tensions, culture and government, military organizations, trade contracts, relationships, historical origin, map and borders, population, city names, religion (not a focus), resource distribution and history of conflict. Whether all seven once belonged to one empire was only brainstormed. **No story premise is canon by choosing seven kingdoms.**
