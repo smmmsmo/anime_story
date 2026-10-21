@@ -1,26 +1,25 @@
-# World & Geography — Nine Kingdom Framework
+# World & Geography — Seven Kingdom Fantasy World
 
-Updated 2026-10-22. **Nine major kingdoms** are selected for the world. Specific borders and mapping remain **provisional**.
+Updated 2026-10-22. The creator has **confirmed seven major kingdoms**. A brief nine-kingdom planning variant was superseded. **No political map, exact location assignment or continent name is fixed.**
 
-## Creator-approved broad environment direction
+## Agreed broad environment
 
-- An original **ancient/medieval-feeling high fantasy animated world** (not a literal real-world historical setting) with kingdoms, cities, farms, roads, caravans, wilderness, magic, demons, other creatures, monsters, dungeons, ruins and politics.
-- Civilian life is usually ordinary: markets, trade, villages, schooling, agriculture, family life and local guardians, interrupted by danger and conflict.
-- The creator liked this broad geographical framework:
-  - **North:** rugged mountains, cold passages and strongholds.
-  - **Central heartland:** fertile rivers and farmland, major settlements and trade routes.
-  - **East:** mineral-rich hills/mountains and ancient ruins.
-  - **West:** forests, waterways and wild-creature habitats.
-  - **South:** seas, islands, ports and pirates.
-  - **Remote frontier:** abandoned cities, perilous wastelands, monsters/demons and old dungeons.
-- Some parts of the world may lie **outside any kingdom**: independent towns, unclaimed lands, ruined settlements and demon-controlled regions.
-- Geography matters mechanically: distance, supply, choke points, resources, travel, trade, borders and military campaigns.
-- Kingdoms should feel distinct to a traveling protagonist, with local politics and customs.
+An original **ancient / medieval-feeling fictional anime fantasy world** with royal powers, magical training, monsters, demons, varied creatures, dungeons, ruins and competing kingdoms. This is **not a literal historical Europe or Britain**. It should feel vast, alive and ordinary to the inhabitants, with believable geography, settlements, food, markets, travel and danger.
 
-## Previous seed, not adopted
+The creator liked this **broad geographic layout** as a planning direction:
+- **North** — mountains, cold valleys, defended passes, difficult terrain and strongholds.
+- **Center** — fertile rivers, farms, populous settlements and major trade routes.
+- **East** — mineral-rich hills and ancient ruins.
+- **West** — great forests, waterways, wild-creature habitats and natural resources.
+- **South** — sea, islands, harbors, commerce and possible pirates.
+- **Remote frontier** — abandoned cities, dangerous wastelands, monster/demon territory, old dungeons.
 
-The Seventh Oath concept and **Black Divide** remain ideas to explore, **not settled lore**. The previous **seven-kingdom** version is superseded by the creator's chosen nine-kingdom count.
+These are **biomes/regions, not one-to-one kingdom assignments**. Geography creates bottlenecks, trade dependencies, rivalry, border disputes, safe trade routes and dangerous quests. Some wildlands, settlements and ruins may stand outside royal rule.
 
-## Unsettled
+**World revelation:** rather than describe the whole continent immediately, let viewers discover its lands, social norms, conflicts and dangers through local stories and the hero's travels.
 
-Continent name, physical map, precise kingdom positions, capital cities, distances, ocean/river system, demon boundaries, ancient history and settlements have **not** been fixed.
+## Important distinctions
+
+- Kingdom-specific specialties and the two selected **unassigned** name candidates, Arlen and Everen, are recorded in [kingdoms-and-politics.md](kingdoms-and-politics.md).
+- The earlier **The Seventh Oath** seed, ancient oaths and **Black Divide** are *possible story ingredients*, **not** adopted history or geographic facts. The fact that seven kingdoms were selected does **not** approve that plot.
+- There is no finalized terrain map, transit timing, kingdom boundary, capital city, major river/ocean name or homeland location.
