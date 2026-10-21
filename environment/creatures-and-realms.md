@@ -1,9 +1,13 @@
-# Supernatural Creatures, Bosses & Dark Territories — NOT CANON
+# Creatures, Demons, Dungeons & Dark Territories
 
-The world can feature numerous exceptionally powerful **creatures, demon-like lords, ancient beings, rival dark rulers and dangerous territorial bosses**. They are not necessarily evil for identical reasons, and no one—especially the young Antagonist early on—automatically dominates them.
+Updated 2026-10-22. The following broad elements are **accepted world ingredients**, with details open.
 
-The Antagonist's rise may involve defeating some, bargaining with some, receiving knowledge/power from some, protecting others, gaining prestige and drawing factions into coalitions. **A boss might grant abilities through terms or reward, but it is not an automatic loot mechanic.**
+- The ancient-feeling fantasy world includes **demons, monsters, diverse creatures, dungeons**, rare relics and perilous territories.
+- Creatures can be mundane, mystical, neutral, territorial or dangerous; not everything non-human must be a mindless enemy.
+- Dungeons, lost cities and ancient ruins can form naturally recurring exploration/hunter settings, with danger and possible discoveries.
+- Demons and boss-level beings may be intelligent, have their own hierarchy, lands and objectives, and may enter bargains with others.
+- Hunting, defeating, learning from or allying with powerful beings are possible paths to power, but **automatic boss-drop abilities are not approved**.
+- The antagonist might grow stronger via such interactions and rare dark techniques; exact mechanisms, costs and his moral/psychological deterioration remain **ideas under development**.
+- Do not introduce worship or literal deity origins of supernatural power.
 
-Explore non-human rules, intelligence, treaties, territorial claims, power limits, hidden motives and why they would respect or fear the Antagonist.
-
-Avoid gods or deity hierarchies, even where a being appears angelic or ancient.
+No fixed demon taxonomy, dungeon ranks, creature roster, realm names or relic inventory.
