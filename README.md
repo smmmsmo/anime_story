@@ -1,6 +1,6 @@
 # Anime Story — World, Cast & Story Development
 
-> **EXPLORATION ONLY — NOTHING IS CANON.** This is a working creative repository, not a finalized story. All names, ages, world rules, plots, character traits, scene ideas and ending mechanisms can change unless the creator explicitly confirms them. No story is selected yet.
+> **WORLD FOUNDATIONS SELECTED; PLOT STILL IN EXPLORATION.** The creator chose **seven main kingdoms with seven specialties**, a Hunter Guild institution and two **unassigned** name candidates (**Arlen, Everen**). The antagonist belongs to the prestigious Education / Royal / Political Power kingdom. The plot, full cast, kingdom-name assignments, powers and ending remain in development. See [decisions](development/decisions.md).
 
 An original, dark, emotionally intense long-form fantasy animated saga in development. The immediate focus is **story, characters, world, and narrative**—not animation production.
 
@@ -30,7 +30,9 @@ An original, dark, emotionally intense long-form fantasy animated saga in develo
 - What causes the privileged antagonist's childhood transformation, and what are his eventual objectives?
 - How does the protagonist acquire power sufficient for a meaningful final confrontation without diminishing the antagonist's vast advantage?
 
-**Previous "The Seventh Oath" outline is one liked candidate, not the adopted plot.** Full earlier notes are preserved in [development/archive/2026-10-22-initial-story-lab.md](development/archive/2026-10-22-initial-story-lab.md).
+**Previous "The Seventh Oath" outline is one liked candidate, not the adopted plot. The seven selected kingdoms do not automatically make its ancient-oath storyline canon.** Full earlier notes are preserved in [development/archive/2026-10-22-initial-story-lab.md](development/archive/2026-10-22-initial-story-lab.md).
+
+See the [2026-10-22 world-building discussion record](development/worldbuilding-2026-10-22.md) for approved versus proposed details, previous alternative specialties, the naming constraints, guilds, geography and potential Hero–Antagonist collision.
 
 ## Update practice
 
