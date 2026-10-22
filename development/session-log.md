@@ -49,3 +49,10 @@
 - Only the scope of **explicit world-building selections** belongs in decisions.md. Plot, powers, character events and name assignments remain open.
 
 **Earlier entries preserve historical brainstorming; the latest explicit decisions are in [decisions.md](decisions.md).**
+
+## 2026-10-22 — Separate 60-second practical teaser production experiment
+- Creator explicitly invited discussion of and documentation for **hands-on animation production**, while independent story/world development stays open.
+- Teaser objective: finish a **~60-second** end-to-end animated proof of concept quickly enough to discover actual production costs, difficulties, and future episode workflow.
+- World-centric ensemble focus: Kingdoms, civilian/NPC agency, institutions and atmosphere are valued alongside Hero and Antagonist. **Equal value does not imply equal shot duration or prominence.**
+- Creator prefers AI-assisted rough sketches and coloring references while personally doing selection, corrections, coloring and actual animation; include at least one genuine drawn motion test rather than only still-camera moves.
+- Detailed **11-phase** workflow added at [production/teaser-01/README.md](../production/teaser-01/README.md). Phase 1 is the next step and is not marked finished; all teaser designs and scene examples are provisional, not story canon.
